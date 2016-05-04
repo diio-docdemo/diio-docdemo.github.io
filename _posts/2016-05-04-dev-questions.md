@@ -3,10 +3,13 @@ layout: default
 title: dev-questions
 ---
 Questions for the developers
+
 ***
 
 Implementation Questions
+
 ***
+
   * How much of the underlying system is third party libraries/code vs. Diio-novel code written internally?
   * Which of the following languages/parts of the stack, revealed by Chrome plugin "BuiltWith", required the most novel code for this version of the software: Apache, Apache Tomcat Coyote, Google Search Appliance, Facebook SDK, Facebook for Websites, jQuery, Modernizr, Viewport Meta, Google Tag Manager, Tealium, Microsoft Azure Blob Storage
   * How is the system represented, architecturally, at a high level?  For reference: [Alternatives to MVC](http://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html)
