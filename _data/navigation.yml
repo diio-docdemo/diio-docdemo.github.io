@@ -5,10 +5,10 @@
   url: /reqs
 
 - title: biz-questions
-  url: /biz-quests
+  url: /biz-questions
 
 - title: dev-questions
-  url: /dev-quests
+  url: /dev-questions
 
 - title: test-cases
   url: /test-cases
