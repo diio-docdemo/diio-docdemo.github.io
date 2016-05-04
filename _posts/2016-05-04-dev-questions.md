@@ -2,17 +2,17 @@
 layout: default
 title: reqs
 ---
-An h1 header
-============
+Questions for the developers
+***
 
-Paragraphs are separated by a blank line.
+Implementation Questions
+***
+  * How much of the underlying system is third party libraries/code vs. Diio-novel code written internally?
+  * Which of the following languages/parts of the stack, revealed by Chrome plugin "BuiltWith", required the most novel code for this version of the software: Apache, Apache Tomcat Coyote, Google Search Appliance, Facebook SDK, Facebook for Websites, jQuery, Modernizr, Viewport Meta, Google Tag Manager, Tealium, Microsoft Azure Blob Storage
+  * How is the system represented, architecturally, at a high level?  For reference: [Alternatives to MVC](http://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html)
+  * What languages, databases, etc. were used in its development?
+  *
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
