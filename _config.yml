@@ -2,6 +2,7 @@
 name: diio-docdemo
 description: Fast, flexible documentation
 google_verification: null
+permalink: /:title/
 
 
 # File management
