@@ -1,10 +1,10 @@
 - title: home
   url: /
 
-- title: requirements
+- title: reqs
   url: /reqs
 
-- title: business-questions
+- title: biz-questions
   url: /biz-quests
 
 - title: dev-questions
