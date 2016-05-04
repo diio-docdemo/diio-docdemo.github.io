@@ -1,6 +1,6 @@
 ---
 layout: default
-title: reqs
+title: dev-questions
 ---
 Questions for the developers
 ***
