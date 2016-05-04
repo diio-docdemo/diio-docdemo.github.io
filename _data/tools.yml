@@ -1,0 +1,17 @@
+- name: GMail (bootstrapping)
+  url: http://gif-giving.com
+
+- name: Github (source control)
+  url: http://sherikoetting.com
+
+- name: Github Pages (hosting)
+  url: http://getpeppers.com
+
+- name: Jekyll (framework)
+  url: http://getpeppers.com
+
+- name: Get Micah (theme)
+  url: http://getpeppers.com
+
+- name: Sublime Text (editor)
+  url: http://getpeppers.com
