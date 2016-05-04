@@ -24,7 +24,7 @@ highlighter: rouge
 
 
 # Site settings
-permalink: /:path/:basename:output_ext
+permalink: /:title/
 
 # Pages permalink
 defaults:
