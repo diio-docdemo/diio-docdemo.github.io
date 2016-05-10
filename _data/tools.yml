@@ -15,3 +15,12 @@
 
 - name: Sublime Text 3 (editor)
   url: https://www.sublimetext.com/3
+
+- name: Google Docs (spreadsheet/test cases)
+  url: https://docs.google.com
+
+- name: Git (command line source control management)
+  url: https://git-scm.com/
+
+- name: Google Chrome Version 50.0.2661.94 (64-bit)
+  url: https://www.google.com/chrome/browser/desktop/
