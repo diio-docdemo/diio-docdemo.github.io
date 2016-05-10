@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: dev-questions
 ---
 questions for devs

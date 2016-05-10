@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: biz-questions
 ---
 questions for devs

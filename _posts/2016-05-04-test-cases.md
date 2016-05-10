@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: test-cases
 ---
 questions for devs
