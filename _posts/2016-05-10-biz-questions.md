@@ -8,7 +8,7 @@ questions for the business
 
 1. What is your target audience? (i.e. demographic info)
 2. In terms of a priority ordering, which browsers and browser versions do we hope to support?
-3. In terms of a priority ordering, which display platforms (web, mobile, kiosk, etc.) do we hope to support?
+3. In terms of a priority ordering, which display/interaction platforms (web, mobile, kiosk, etc.) do we hope to support?
 4. Do we have any delivery deadlines?
 5. Will any third parties be embedding these pages or functionality?
 6. Are there any prior versions of these applications?
