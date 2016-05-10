@@ -16,3 +16,4 @@ questions for devs
   8. Were there any major efforts required to make the system compatible across multiple channels (web, mobile, kiosk, etc)?
   9. Did you use any pre-existing specifications or documentation to inform your development decisions?
   10. Were any of your development decisions made specifically to aid testing or the QA process?  If so, which?  If not, can we schedule another meeting to talk about the next version?
+  11. Is there an API providing the data to this app's UI layer?  If so, what are the API's endpoints?  What is the API's contract?  What are the expected inputs to and outputs from the endpoints?
