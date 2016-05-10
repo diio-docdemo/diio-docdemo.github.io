@@ -2,17 +2,17 @@
 layout: post
 title: biz-questions
 ---
-questions for devs
+questions for the business
 
 ***
 
-  1. How much of the underlying system is third party libraries/code vs. novel code written by Diio employees?
-  2. Which of the following languages/parts of the stack, revealed by Chrome plugin "BuiltWith", required the most novel code for this version of the software: Apache, Apache Tomcat Coyote, Google Search Appliance, Facebook SDK, Facebook for Websites, jQuery, Modernizr, Viewport Meta, Google Tag Manager, Tealium, Microsoft Azure Blob Storage?
-  3. How is the system represented, architecturally, at a high level?  For reference: [Alternatives to MVC](http://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html)
-  4. What languages, databases, etc. were used in its development?
-  5. What were the most difficult or complex parts of the engagement?
-  6. Did we touch any parts of the code requiring additional oversight by compliance, security, financial or other stakeholders?
-  7. Where's the app's repo?
-  8. Were there any major efforts required to make the system compatible across multiple channels (web, mobile, kiosk, etc)?
-  9. Did you use any pre-existing specifications or documentation to inform your development decisions?
-  10. Were any of your development decisions made specifically to aid testing or the QA process?  If so, which?  If not, can we schedule another meeting to talk about the next version?
+  1. What is your target audience? (i.e. demographic info)
+  2. In terms of a priority ordering, which browsers and browser versions do we hope to support?
+  3. In terms of a priority ordering, which display platforms (web, mobile, kiosk, etc.) do we hope to support?
+  4. Do we have any delivery deadlines?
+  5. Will any third parties be embedding these pages or functionality?
+  6. Are there any prior versions of these applications?
+  7. Is this going to be part of some larger effort with an alpha/beta/production release cycle?
+  8. Who (what person) is our compliance stakeholder?
+  9. Who (what person) is our accessibility stakeholder?
+  10. Who (what person) is our security stakeholder?
