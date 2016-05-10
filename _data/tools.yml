@@ -16,7 +16,7 @@
 - name: Sublime Text 3 (editor)
   url: https://www.sublimetext.com/3
 
-- name: Markdown
+- name: Markdown (html)
   url: https://en.wikipedia.org/wiki/Markdown
 
 - name: Google Docs (spreadsheet/test cases)
