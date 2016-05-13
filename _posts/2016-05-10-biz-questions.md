@@ -3,6 +3,7 @@ layout: post
 title: biz-questions
 ---
 questions for the business
+These are questions for people in non-engineering parts of the business including marketing, product, UX and the project management organization. Their answers will help us make sure we're delivering a product with high expected value to our customers.
 
 ***
 
