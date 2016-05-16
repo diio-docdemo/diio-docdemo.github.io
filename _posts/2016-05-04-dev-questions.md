@@ -3,6 +3,9 @@ layout: post
 title: dev-questions
 ---
 questions for devs
+
+***
+
 These are questions for the software developers, engineers, and other technical people. Their answers will help us understand what tools and languages we need to use for testing and help us assess which areas of the code present the highest risk to quality delivery.
 
 ***
